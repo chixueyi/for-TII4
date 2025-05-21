@@ -1,6 +1,6 @@
-# Citation
+## Citation
 
-## RangedIK:
+### RangedIK:
 
    paper: [*RangedIK: An Optimization-based Robot Motion Generation Method for Ranged-Goal Tasks*](https://arxiv.org/abs/2302.13935)
  
@@ -8,7 +8,7 @@
 
    
 
-##Plan by Voxel:
+### Plan by Voxel:
 
    paper: https://voxposer.github.io/voxposer.pdf
    
